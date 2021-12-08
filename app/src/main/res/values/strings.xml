@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hours to Units Calculator</string>
+
+    <string-array name="clientNameArray">
+        <item name="clientOne">Client 1</item>
+        <item name="clientTwo">Client 2</item>
+        <item name="clientThree">Client 3</item>
+    </string-array>
+
+</resources>
